@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "cartas-yugioh": {
+      "hosting": {
+        "yugioh-cards": [
+          "cartas-yugioh"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+[{
+    "name": "Blue-Eyes White Dragon",
+    "def": 2500,
+    "atk": 3000
+  },
+  {
+    "name": "Minerva",
+    "def": 2000,
+    "atk": 800
+  },
+  {
+    "name": "Black Luster Soldier",
+    "def": 3000,
+    "atk": 2500
+  },
+  {
+    "name": "Cyber-Stein",
+    "def": 700,
+    "atk": 500
+  }]
